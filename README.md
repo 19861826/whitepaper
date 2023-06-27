@@ -1,7 +1,7 @@
-# BNB Smart Chain White Paper
+#     BNB 智能链白皮书   
 
-## Revision
+##  修订
 
-* Version 0.1, 2020/04/17, initial publish.
-* Version 0.1, 2020/05/25, add Chinese version translated by community members.
-* Version 0.1, 2020/11/10, add Filipino version translated by @ricoz
+*      第0.1版,2020/04/17版,初步出版。    
+*      第 0.1 版, 2020/05/25 ,添加社区成员翻译的中文版本。    
+*     第 0.1 版, 2020/11/10 ,添加 @ricoz 翻译的菲律宾版本   
